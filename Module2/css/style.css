@@ -28,7 +28,7 @@ span {
 p {
   border: 1px solid black;
   width: 90%;
-  height: 330px;
+  /* height: 330px; */
   margin-right: auto;
   margin-left: auto;
   margin-bottom: 30px;
